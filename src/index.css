@@ -1,0 +1,9 @@
+.winner{
+  /* h-[50px] w-[50px] text-xl text-white border-0 bg-[#fe3630] */
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  color:white;
+  border-width: 0;
+  background-color: red;
+}
